@@ -1,0 +1,89 @@
+Dear customer,
+Thank Your for purchasing Murano!
+
+Please read this help file before using!
+
+
+MURANO PACKAGE
+You received next items
+-----------------------------------
+
+13 Murano App Files
+750x1334 pixels in resolution
+Guide to make higher density screen
+Full Customer Support
+
+
+
+HOW TO OPEN
+-----------------------------------
+	
+	1. Open Photoshop
+	2. Double-click desired file or drag and drop it in Photoshop workspace
+
+	Requires Photoshop (minimum CS)
+
+
+
+EDITING
+-----------------------------------
+	
+	- Select any shape (button, navigation shape, border, etc..) you want to customize
+	- Select "Text Tool" and click on desired text you want to edit/change
+	- Change the color of desired shape (button, border, nav shape, tab button, etc..) by selecting it and double clicking the shape icon
+
+
+
+BACKGROUND IMAGES
+-----------------------------------
+
+	Background images are not included due Envato rules, and they are used for demonstration purposes only!
+
+	If you wish to add a custom or downloaded background, make sure you select the "Color Fill" or "Gradient Fill" layer in "Background"
+	group. Drag and drop desired image and confirm the change.
+	All images (backgrounds) you add must be minimum 750x1334 in pixels if you are going to make default iOS screen.
+
+
+
+
+FONT
+-----------------------------------
+
+	San Francisco (Commercial Font) - Requires Apple Developer Program Membership
+	Fits with most free fonts (Roboto, Lato, Sans PRO, etc..)
+	
+
+
+CREATING HIGH DENSITY SCREEn
+-----------------------------------
+
+	In order to make it fully retinal display, current 750x1334 needs adjustments.
+	It's very easy.
+
+	1. Open desired file you want to make bigger
+	2. Navigate to "Image" options in Nav
+	3. Click on "Image Size" or by clicking ALT+CTRL+I (Windows)
+	4. Find "Resolution", by default it should be 72
+	5. Enter this value 119,2 and press "OK"
+	6. Wait few seconds and your screens is ready
+
+
+
+SUPPORT
+-----------------------------------
+Contact mail: amar@optimum.ba
+
+If you have any issues, questions, feel free to contact me.
+Support is only dealt via Envato Support in the Item section.
+
+Rate this item!!!
+
+Best regards,
+Amaranthus.
+
+
+
+
+
+
+	

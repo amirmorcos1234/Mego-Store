@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Market Me</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">350131639132255</string>
+    
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="fb_login_protocol_scheme">fb350131639132255</string>
+</resources>

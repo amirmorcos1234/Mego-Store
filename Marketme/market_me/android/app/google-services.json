@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609640209332",
+    "firebase_url": "https://mego-admin.firebaseio.com",
+    "project_id": "mego-admin",
+    "storage_bucket": "mego-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609640209332:android:bb8ee39eee4dfed0",
+        "android_client_info": {
+          "package_name": "com.example.marketme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609640209332-3dhtgmd0p3rltiilg3cffsee6n9kitdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxFB86cG8MyECd-aQ51rokJHMsiS1gV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
